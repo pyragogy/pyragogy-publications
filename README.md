@@ -14,22 +14,6 @@ The repository serves as a shared archive for research, citation, impact analysi
 
 ---
 
-## 📄 Structure
-
-```bash
-pyragogy-publications/
-│
-├── README.md                # This file  
-├── LICENSE                  # CC BY 4.0 License  
-├── publications/
-│   ├── pyragogy_authored.yaml   # Publications by Pyragogy team  
-│   └── pyragogy_cited.yaml      # External works citing Pyragogy  
-└── docs/
-    └── roadmap.md           # Ideas and development plans  
-```
-
----
-
 ## 🌱 Purpose
 
 This dataset helps us:
