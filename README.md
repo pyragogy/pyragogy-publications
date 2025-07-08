@@ -8,7 +8,6 @@ It includes:
 
 - ✅ Peer-reviewed articles and official publications authored by the Pyragogy team  
 - 🔍 External citations and scholarly references mentioning Pyragogy  
-- 📁 Structured datasets in YAML and Markdown format
 
 The repository serves as a shared archive for research, citation, impact analysis, and dissemination.
 
